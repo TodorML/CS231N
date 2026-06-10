@@ -34,7 +34,7 @@ python setup.py build_ext --inplace      # assignment2: build fast conv layers
 jupyter notebook
 ```
 
-The pinned versions in `assignment2/requirements.txt` track the original course env and may need relaxing on Python 3.11 — if so, install current NumPy, SciPy, Matplotlib, Jupyter, Cython, and PyTorch.
+The pinned versions in `assignment2/requirements.txt` track the original course env and may need relaxing on Python 3.11 - if so, install current NumPy, SciPy, Matplotlib, Jupyter, Cython, and PyTorch.
 
 ## Notes
 All starter code and assignment design are by the Stanford CS231n staff; this repo holds my solutions to the `# TODO` sections. If you're taking the course, use it as a reference and write your own, the Honor Code applies.
