@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -c ':*)",
+      "Read(//usr/**)",
+      "Bash(ls /c/Python*/python.exe)"
+    ]
+  }
+}
